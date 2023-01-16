@@ -1,0 +1,19 @@
+#uzdra_gallery_images {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#uzdra_gallery_images img {
+    width: 200px;
+    height: 200px;
+}
+
+#uzdra_gallery_image {
+    display: block;
+    margin: 20px;
+}
+
+#uzdra_gallery_image:hover {
+    border: 2px solid #25b9d7;
+}
