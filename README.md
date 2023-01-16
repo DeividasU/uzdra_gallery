@@ -1,2 +1,2 @@
 # uzdra_gallery
-Prestashop module
+Prestashop additional gallery for products module
